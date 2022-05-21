@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pritam95272
 - 👀 I’m interested in Competative coding
-- 🌱 I’m currently learning  at PES university
+- 🌱 I’m currently studying  at PES university
 - 📫 You can reach me at pritamgurav95272@gmail.com
 
 <!---
